@@ -6,7 +6,11 @@
 package Hogar;
 
 /**
- *
+ * <a>Insertando comentarios Javadoc:</a>
+ * <ul>
+ * <li>Trabajo Entornos</li>
+ * <li>Hecho por Julian Martinez</li>
+ * </ul>
  * @author Paqui Elena
  */
 public class Vivienda {
